@@ -286,5 +286,4 @@ def get_wait_time(alive_count):
     else:
         return 1
 
-# Run the bot with the bot token
-bot.run('MTI5OTQwMjExODA5NjIyNDI2Nw.Gr6q1o.9o_-RJLcy6XPw9Ufxu6NtKXir2woCd9Qdh2NlU')
+bot.run('Token later')
